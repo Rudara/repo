@@ -1,1 +1,1 @@
-print("python")
+me = "new python"
